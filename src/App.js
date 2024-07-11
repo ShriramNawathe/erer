@@ -11,11 +11,13 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.google.com/search?q=dhoni&oq=dhoni&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU2OTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          know more about msd
+          
+        
         </a>
       </header>
     </div>
